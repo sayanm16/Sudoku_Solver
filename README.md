@@ -110,8 +110,6 @@ The workings of the Sudoku Validator are quite simple, to be honest. Here's a si
 * I was thinking we could write a "backend" which could then be called by various "interface frontends". The backend is written in C++ and the frontends could be shell or maybe an API or something.
 * The objective would be for this to be used by web backends and things like that.
 
-## Acknowledgements
-
 * Shriram R - Idea Inspiration
 * Aravind B - Puzzle Display Design Ideas
 
